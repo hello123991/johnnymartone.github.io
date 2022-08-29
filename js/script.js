@@ -19,7 +19,7 @@ function addLens(title, desc, image, link) {
     holder.appendChild(d)
 }
 addLens("Long Chin", "Views: <b>1,348,640</b><br>Plays: <b>1,220,238</b>", "https://lens-storage.storage.googleapis.com/png/0288aa5b92ff4c4799d1d33456bb973d", "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=f4aaddr1vyh3ysu2rl4q2llq80sptvk3hftr8xen8dc73kdc3ezlqngpqtaye")
-addLens("Very long face", "Views: <b>646,519</b><br>Plays: <b>595,413</b>", "Images/VeryLongFace.png", "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=8a9d3bccfc1743e19fe4d2c215449819&metadata=01")
+addLens("Very long face", "Views: <b>646,519</b><br>Plays: <b>595,413</b>", "VeryLongFace.png", "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=8a9d3bccfc1743e19fe4d2c215449819&metadata=01")
 addLens("What animal am I", "Views: <b>532,949</b><br>Plays: <b>488,927</b>", "https://lens-storage.storage.googleapis.com/png/21482161b82847909ec4dcea80572b8a", "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=67018a2794b14344ae07c8559eea9072&metadata=01")
 addLens("Rainbow Hair", "Views: <b>380,363</b><br>Plays: <b>371,085</b>", "https://lens-storage.storage.googleapis.com/png/3d14b3c210834fbd87fea54866f9eabe", "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=44d167c739074d9abf5d3ec1bea6bfba&metadata=01")
 addLens("some kinda monkey", "Views: <b>355,117</b><br>Plays: <b>334,367</b>", "https://lens-storage.storage.googleapis.com/png/29b606962ac5442991968aea34c3e2b2", "https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=5f20223650c6472f911538866d2010af&metadata=01")
